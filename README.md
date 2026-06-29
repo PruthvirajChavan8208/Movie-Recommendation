@@ -3,7 +3,7 @@
 An interactive web application that suggests movies based on user preferences. This project uses Content-Based Filtering and Natural Language Processing (NLP) to find similarities between movie tags, genres, and descriptions.
 
 ## 🚀 Live Demo
-[Click here to view the Live App](PASTE_YOUR_STREAMLIT_LINK_HERE)
+Click here to view the Live App-->https://movie-recommendation-r2bnku4suubds2xmq3zk36.streamlit.app/
 
 ## 💡 How it Works
 The system analyzes movie titles and features from the cleaned_data.csv. It uses a Similarity Matrix (stored in similarity.pkl) to calculate the mathematical "closeness" between movies. When a user enters a movie title, the app:
